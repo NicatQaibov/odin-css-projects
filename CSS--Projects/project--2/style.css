@@ -1,0 +1,18 @@
+/* CLASSES */
+.odd {
+  background-color: lightcoral;
+  font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+.font-md {
+  font-size: 24px;
+}
+
+/* IDS */
+#second-el {
+  color: blue;
+  font-size: 36px;
+}
+#fourth-el {
+  background-color: lightgreen;
+}
